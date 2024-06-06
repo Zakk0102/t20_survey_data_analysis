@@ -5,7 +5,6 @@ The ICC T20 World Cup 2024 Survey project is designed to gather and analyze data
 
 ## Analysis Parameters
 The analysis of the survey data is based on the following parameters:
-- **Age Group**
 - **Team of Interest**
 - **Winner**
 - **Finalists**
