@@ -17,5 +17,6 @@ The analysis of the survey data is based on the following parameters:
 - **Key All-Rounder**
 
   ## Dashbord Image
-  ![image](https://github.com/Zakk0102/t20_survey_data_analysis/assets/141924599/75da9016-dc70-46bd-a1fb-bbb790df2131)
+ ![image](https://github.com/Zakk0102/t20_survey_data_analysis/assets/141924599/03611422-6d9f-41d2-bf83-e1ca6ec37d12)
+
 
