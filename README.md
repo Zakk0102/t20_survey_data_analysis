@@ -1,7 +1,7 @@
-# ICC T20 2024 Survey Project
+# ICC T20 World Cup 2024 Survey Project
 
 ## Project Description
-The T20 Survey project is designed to gather and analyze data from public on various aspects of ICC T20 cricket. The survey aims to understand opinions, preferences, and trends among cricket enthusiasts.
+The ICC T20 World Cup 2024 Survey project is designed to gather and analyze data from public on various aspects of T20 cricket. The survey aims to understand opinions, preferences, and trends among cricket enthusiasts.
 
 ## Analysis Parameters
 The analysis of the survey data is based on the following parameters:
